@@ -1,0 +1,15 @@
+# YOLOv8 数据集配置文件
+# 路径使用相对路径（相对于项目根目录）
+path: ./data/processed
+train: images/train
+val: images/val
+test: images/test
+
+# 类别数量
+nc: 3
+
+# 类别名称映射（索引与名称对应）
+names:
+  0: with_mask
+  1: without_mask
+  2: mask_weared_incorrect
