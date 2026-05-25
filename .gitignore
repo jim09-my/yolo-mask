@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 自定义忽略规则
+data/raw/
+*.pt
+logs/
+*.docx
+
