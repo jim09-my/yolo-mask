@@ -224,3 +224,9 @@ data/augmented/
 logs/
 *.docx
 CLAUDE.md
+
+
+plan.markdown
+project_overview.md
+Colab_Training_Guide.ipynb
+.pre-commit-config.yaml
